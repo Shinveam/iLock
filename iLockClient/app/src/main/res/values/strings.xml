@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">iLock</string>
+    <string name="tag1">欢迎使用智能锁</string>
+    <string name="tag3">登录密码：</string>
+    <string name="tag4">开锁密码：</string>
+    <string name="tag2">用户名：</string>
+    <string name="e1">在此输入登录密码</string>
+    <string name="b1">注册</string>
+    <string name="b2">登录</string>
+    <string name="e2">在此输入开锁密码</string>
+    <string name="b3">开锁</string>
+    <string name="tag7">确认密码：</string>
+    <string name="e4">确认一遍您的新密码</string>
+    <string name="b4">确定</string>
+    <string name="tag5">登录密码：</string>
+    <string name="e5">请输入开锁密码</string>
+    <string name="tag8">重置开锁密码</string>
+    <string name="tag6">新密码：</string>
+    <string name="e6">输入新密码</string>
+    <string name="e7">在此输入用户名</string>
+    <string name="tag10">登录前先连接网络，进行开锁或者重置密码时，请务必先登录才能使用！！！</string>
+    <string name="tag9">注意：</string>
+    <string name="b5">退出程序</string>
+    <string name="ip">输入IP地址（仅供测试）</string>
+    <string name="port">端口号</string>
+    <string name="b9">连接</string>
+    <string name="ipaddr">IP地址</string>
+</resources>
